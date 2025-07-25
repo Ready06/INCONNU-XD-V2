@@ -21,8 +21,8 @@
   },
   
   "adminBot": [
-    "61568791604271",
-    "9806523922789501",
+    "61578797338758",
+    "",
     "61578610046467"
   ],
   "whiteListMode": {
@@ -30,8 +30,8 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "‌𝑰𝑵𝑪𝑶𝑵𝑵𝑼-𝑿𝑫-𝑽1",
-  "prefix": "-",
+  "nickNameBot": "‌𝙃𝙔𝘿𝙍𝘼 𝕍𝟜 ☄️",
+  "prefix": "€",
   "database": {
     "type": "mongodb",
     "uriMongodb": "mongodb+srv://shipuaimirai:chitron%402448766@shipuaimiraibot.nwesgqa.mongodb.net/?retryWrites=true&w=majority&appName=ShiPuAiMiraiBot",
@@ -128,8 +128,8 @@
     "message_reply": true,
     "event": true,
     "read_receipt": false,
-    "typ": false,
-    "presence": false
+    "typ": true,
+    "presence": true
   },
   "optionsFca": {
     "forceLogin": true,
