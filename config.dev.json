@@ -22,7 +22,7 @@
   
   "adminBot": [
     "61578797338758",
-    "",
+    "61578797338758",
     "61578610046467"
   ],
   "whiteListMode": {
@@ -31,7 +31,7 @@
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": "‌𝙃𝙔𝘿𝙍𝘼 𝕍𝟜 ☄️",
-  "prefix": "€",
+  "prefix": "@",
   "database": {
     "type": "mongodb",
     "uriMongodb": "mongodb+srv://shipuaimirai:chitron%402448766@shipuaimiraibot.nwesgqa.mongodb.net/?retryWrites=true&w=majority&appName=ShiPuAiMiraiBot",
@@ -128,8 +128,8 @@
     "message_reply": true,
     "event": true,
     "read_receipt": false,
-    "typ": true,
-    "presence": true
+    "typ": false,
+    "presence": false
   },
   "optionsFca": {
     "forceLogin": true,
